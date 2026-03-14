@@ -18,10 +18,10 @@ description: A collection of resources for researchers to build social media pla
 
 # Author box
 author:
-    title: About Us
+    title: Maintained by
     title_url: 'about'
     external_url: true
-    description: Author description
+    description: Tiziano Piccardi, Johns Hopkins University
 
 # Grid navigation
 grid_navigation:
