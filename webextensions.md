@@ -92,11 +92,15 @@ The repository includes:
 - `launcher.js` — extension initialization and configuration  
 - Python backend — scoring and reranking server (Flask; Gunicorn recommended for production)
 
+The method is described in:
+
+_Tiziano Piccardi, Martin Saveski, Chenyan Jia, Jeffrey T. Hancock, Jeanne Tsai, and Michael Bernstein. 2026. Reranking Social Media Feeds: A Practical Guide for Field Experiments. Trans. Soc. Comput._ [https://doi.org/10.1145/3800557](https://doi.org/10.1145/3800557)
+
 The experimental deployment is described in:
 
-Piccardi, T., Saveski, M., Jia, C., Hancock, J. T., Tsai, J., & Bernstein, M. S. (2025).  
-**Reducing partisan animosity through algorithmic feed reranking.** *Science*.  
-https://www.science.org/doi/10.1126/science.adu5584
+_Tiziano Piccardi, Martin Saveski, Chenyan Jia, Jeffrey T. Hancock, Jeanne Tsai, and Michael Bernstein. 2025. 
+Reducing partisan animosity through algorithmic feed reranking._
+[https://www.science.org/doi/10.1126/science.adu5584](https://www.science.org/doi/10.1126/science.adu5584)
 
 ## Browser Compatibility
 
