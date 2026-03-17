@@ -6,14 +6,13 @@ comments: false
 
 # Hero section
 title: Web Extensions for feed reranking
-description: Run feed reranking experiments on closed platforms without platform collaboration.
-
+description: "Run feed reranking experiments on closed platforms without platform collaboration."
 # Author box
-author:
-    title: About Author
-    title_url: '#'
-    external_url: false
-    description: Tiziano Piccardi
+# author:
+#     title: About Author
+#     title_url: '#'
+#     external_url: false
+#     description: Tiziano Piccardi
 
 # Micro navigation
 micro_nav: true

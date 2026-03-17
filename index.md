@@ -33,6 +33,10 @@ grid_navigation:
       excerpt: Binary classifier to predict if a post is about politics.
       cta: Read more
       url: 'politicalclassifiers'
+    - title: Tutorials
+      excerpt: Resources and tutorials focused on social media experiments.
+      cta: Read more
+      url: 'tutorials'
     - title: Engagement models
       excerpt: Collections fo models to predict engagement on social media posts.
       cta: Coming soon
